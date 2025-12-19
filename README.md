@@ -43,7 +43,7 @@ Investigação técnica sobre a **autenticidade e integridade** de um documento 
 **Conclusão principal:**
 Foi comprovada tecnicamente a **quebra de integridade do documento**, indicando adulteração após a aposição da assinatura digital, resultando na invalidação da assinatura.
 
-🔗 Acessar relatório executivo e evidências
+🔗 [Acessar relatório executivo e evidências](laudo-1-assinatura-digital/)
 
 ---
 
@@ -61,7 +61,7 @@ Análise forense de uma imagem de vigilância digital com o objetivo de verifica
 **Resultados-chave:**
 O laudo comprovou a **integridade da imagem**, descartando adulterações, e permitiu a **estimativa técnica da altura do condutor** da motocicleta a partir da análise visual e métrica.
 
-🔗 Acessar relatório executivo e evidências
+🔗 [Acessar relatório executivo e evidências](laudo-2-analise-imagem/)
 
 ---
 
@@ -85,7 +85,8 @@ O laudo comprovou a **integridade da imagem**, descartando adulterações, e per
 
 ## 🧑‍💻 Autor
 
-**João Gustavo Pires da Costa**
+**João Gustavo Pires da Costa**  
+
 Estudante de Ciência da Computação – PUC Minas
 
 ---
