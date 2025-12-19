@@ -24,8 +24,10 @@ A perícia foi conduzida conforme as diretrizes do **DFIR (Digital Forensics and
 - **Objeto da perícia:** Arquivo de imagem digital no formato JPEG, denominado `placaMoto.jpeg`.
 - As funções hash foram calculadas utilizando a ferramenta **HashCalc**, assegurando a integridade da evidência.
 
-**HASHs de Integridade:**
-MD5: d4233db838cf71eab9e1127a22e21803
+**HASHs de Integridade:**  
+
+MD5: d4233db838cf71eab9e1127a22e21803  
+
 SHA-256: 422f9d56432f14f0d07e26b6df625447b41e6a9b77311cb8324e8e3c5913f8f9
 
 - As capturas de tela do cálculo das HASHs encontram-se documentadas na pasta `imagens/`.
