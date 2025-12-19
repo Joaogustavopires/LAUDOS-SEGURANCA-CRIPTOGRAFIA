@@ -1,36 +1,95 @@
-# 🛡️ Projetos de Segurança e Criptografia de Dados
-## Pontifícia Universidade Católica de Minas Gerais (PUC Minas)
+# 🛡️ Segurança da Informação, Criptografia e Perícia Digital
 
-Este repositório consolida os trabalhos práticos desenvolvidos na disciplina de **Investigação, Perícia, Inteligência Cibernética e Resposta a Incidentes**.
+Projetos práticos desenvolvidos na disciplina **Segurança e Criptografia de Dados** da **PUC Minas – Poços de Caldas**.
 
-Os projetos demonstram a aplicação de técnicas rigorosas de **Computação Forense e Perícia Digital**, seguindo o rigor científico e a **Norma ABNT ISO/IEC 27037:2013** para a preservação de evidências e a cadeia de custódia.
-
----
-
-## 📂 Laudos Periciais e Análise Forense
-
-Abaixo estão os resumos executivos dos laudos periciais realizados, com links diretos para a documentação e evidências de cada projeto:
-
-### 1. ✍️ Laudo Pericial: Análise de Assinatura Digital e Integridade
-O trabalho focou na investigação da autenticidade e integridade de um documento eletrônico assinado digitalmente.
-* **Técnicas Abordadas:** Validação de certificados ICP-Brasil, Análise de Metadados (ExifTool), Cálculo de HASH SHA-256 e extração de Carimbo do Tempo (Timestamp).
-* **Conclusão Principal:** Comprovação técnica da **quebra de integridade** do documento (adulteração após a aposição da assinatura digital), resultando na invalidação da assinatura.
-
-🔗 [Acessar Relatório Executivo e Evidências](laudo-1-assinatura-digital/README.md)
+Este repositório consolida **laudos periciais e análises forenses digitais**, elaborados seguindo rigor técnico, metodologia científica e boas práticas de **Computação Forense**, com foco na preservação de evidências e na confiabilidade dos resultados.
 
 ---
 
-### 2. 📷 Laudo Pericial: Análise Forense em Imagem Digital
-Análise de uma imagem de vigilância digital (`placaMoto.jpeg`) para extrair informações visuais, determinar a integridade do arquivo e responder a quesitos judiciais.
-* **Técnicas Abordadas:** Cadeia de Custódia, Análise ELA (Error Level Analysis - Forensically) para detecção de adulteração, Extração de Metadados e Processamento de Imagem (ImageJ/Fiji) para calibração de escala e medição.
-* **Resultados Chave:** O laudo comprovou a integridade da imagem (sem adulteração) e permitiu a **estimativa da altura do condutor** da motocicleta.
+## 🎯 Objetivo
 
-🔗 [Acessar Relatório Executivo e Evidências](laudo-2-analise-imagem/README.md)
+Aplicar conceitos teóricos e práticos de Segurança da Informação e Perícia Digital para:
+
+* Análise de integridade e autenticidade de evidências digitais
+* Preservação da cadeia de custódia
+* Produção de laudos técnicos claros e fundamentados
+* Resposta a quesitos periciais de natureza técnica e jurídica
 
 ---
 
-## 🧑‍💻 Sobre o Executor
+## 📚 Referências Técnicas e Normativas
 
-**João Gustavo Pires Da Costa**
-* **Curso:** Ciência da Computação (4º Período)
-* **Instituição:** Pontifícia Universidade Católica de Minas Gerais – PUC Minas
+Os trabalhos seguem diretrizes reconhecidas na área de perícia digital, incluindo:
+
+* **ABNT ISO/IEC 27037:2013** — Diretrizes para identificação, coleta, aquisição e preservação de evidências digitais
+* Boas práticas de Computação Forense
+* Metodologias aceitas em perícia técnico-científica
+
+---
+
+## 📂 Laudos Periciais Desenvolvidos
+
+### 1️⃣ ✍️ Laudo Pericial — Análise de Assinatura Digital e Integridade
+
+Investigação técnica sobre a **autenticidade e integridade** de um documento eletrônico assinado digitalmente.
+
+**Técnicas abordadas:**
+
+* Validação de certificados digitais (ICP-Brasil)
+* Análise de metadados (ExifTool)
+* Cálculo de hash criptográfico (SHA-256)
+* Verificação de carimbo do tempo (*Timestamp*)
+
+**Conclusão principal:**
+Foi comprovada tecnicamente a **quebra de integridade do documento**, indicando adulteração após a aposição da assinatura digital, resultando na invalidação da assinatura.
+
+🔗 Acessar relatório executivo e evidências
+
+---
+
+### 2️⃣ 📷 Laudo Pericial — Análise Forense em Imagem Digital
+
+Análise forense de uma imagem de vigilância digital com o objetivo de verificar sua integridade e extrair informações relevantes para resposta a quesitos periciais.
+
+**Técnicas abordadas:**
+
+* Cadeia de custódia
+* Análise ELA (*Error Level Analysis*) com Forensically
+* Extração e correlação de metadados
+* Processamento e calibração de imagem (ImageJ / Fiji)
+
+**Resultados-chave:**
+O laudo comprovou a **integridade da imagem**, descartando adulterações, e permitiu a **estimativa técnica da altura do condutor** da motocicleta a partir da análise visual e métrica.
+
+🔗 Acessar relatório executivo e evidências
+
+---
+
+## 🧠 Competências Demonstradas
+
+* Computação Forense e Perícia Digital
+* Análise de integridade e autenticidade de evidências
+* Criptografia aplicada (hashes e assinaturas digitais)
+* Produção de laudos técnicos fundamentados
+* Aplicação de normas e boas práticas de segurança
+
+---
+
+## 🎓 Contexto Acadêmico
+
+* **Curso:** Ciência da Computação
+* **Disciplina:** Segurança e Criptografia de Dados
+* **Instituição:** Pontifícia Universidade Católica de Minas Gerais (PUC Minas – Poços de Caldas)
+
+---
+
+## 🧑‍💻 Autor
+
+**João Gustavo Pires da Costa**
+Estudante de Ciência da Computação – PUC Minas
+
+---
+
+## 🏁 Conclusão
+
+Este repositório evidencia a aplicação prática de conceitos avançados de Segurança da Informação e Perícia Digital, demonstrando capacidade de conduzir análises técnicas rigorosas, preservar evidências digitais e produzir documentação pericial clara, objetiva e tecnicamente confiável.
